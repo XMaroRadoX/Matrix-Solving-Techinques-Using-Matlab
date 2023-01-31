@@ -1,6 +1,6 @@
 # Matrix Solving Techinques Using Matlab 🔢📈
 
-**The project involves using Matlab to analyze non-linear equations. The aim is to gain a deeper understanding of the equations by using computer-aided numerical analysis and visualizing the results through graphs and charts.**
+**Project on using MATLAB to solve matrices using various techniques like Gaussian elimination and LU decomposition, for real-world problems. Matrix solving is important in various fields, and this project will help deepen understanding and apply MATLAB to solve matrices.**
 
 ## Explaination 📖
 
