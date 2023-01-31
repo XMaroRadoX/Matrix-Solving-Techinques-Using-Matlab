@@ -33,7 +33,7 @@ Matrix solving is a crucial aspect of linear algebra and plays a major role in f
 | File Name                                                                                                           | Description                                                       |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [techinques.m](https://github.com/XMaroRadoX/Matrix-Solving-Techinques-Using-Matlab/blob/master/techniques.m) | Contains matlab code of functions implementation. |
-| [Figure.m](https://github.com/XMaroRadoX/Matrix-Solving-Techinques-Using-Matlab/blob/master/Figure.m)             | Contains matlab code of Visuals.                                          |
+| [untitled.m](https://github.com/XMaroRadoX/Matrix-Solving-Techinques-Using-Matlab/blob/master/untitled.m)             | Contains matlab code of Visuals.                                          |
 | [test.txt](https://github.com/XMaroRadoX/Matrix-Solving-Techinques-Using-Matlab/blob/master/test.txt) | Contians a sample run for the user to test|
 
 ### Pre-requisites :screwdriver:
